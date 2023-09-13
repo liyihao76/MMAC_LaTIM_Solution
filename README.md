@@ -20,12 +20,16 @@ This table provides a brief description of our operators and detailed parameters
 
 ![image](https://github.com/liyihao76/MMAC_LaTIM_Solution/assets/55517267/87c21065-d987-469f-a983-8279598513c5)
 
-### 1. Task 1 - Classification of myopic maculopathy
 
-![image](https://github.com/liyihao76/MMAC_LaTIM_Solution/assets/55517267/72f705c2-02b4-40ca-a5e5-a3b64b01b6b4)
+## Inference
 
-
-### Task 2-Segmentation of myopic maculopathy plus lesions
+### Task 1 - Classification of myopic maculopathy
 
 
+### Task 2 - Segmentation of myopic maculopathy plus lesions
 
+![image](https://github.com/liyihao76/MMAC_LaTIM_Solution/assets/55517267/7658c033-2b18-44d1-b125-141ec3216c52)
+
+### Task 3 - Prediction of spherical equivalent
+
+![image](https://github.com/liyihao76/MMAC_LaTIM_Solution/assets/55517267/44391d5f-19c6-48fe-b717-258129ea42ed)
