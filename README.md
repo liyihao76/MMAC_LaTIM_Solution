@@ -23,6 +23,8 @@ This table provides a brief description of our operators and detailed parameters
 
 ## Inference
 
+Submissions and weights for the validation and testing phases (four versions per task): [Submissions_MMAC_LaTIM](https://drive.google.com/drive/folders/1NuIb90U53INq_BZUO9zdG2gpz_wvs9pm?usp=sharing)
+
 ### Task 1 - Classification of myopic maculopathy
 
 
