@@ -27,6 +27,8 @@ Submissions and weights for the validation and testing phases (four versions per
 
 ### Task 1 - Classification of myopic maculopathy
 
+![image](https://github.com/liyihao76/MMAC_LaTIM_Solution/assets/55517267/97c4b1d8-e0cd-4d55-8ffc-6cce3cf4ef86)
+
 
 ### Task 2 - Segmentation of myopic maculopathy plus lesions
 
